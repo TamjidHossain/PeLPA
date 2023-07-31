@@ -21,7 +21,7 @@ envType = sys.argv[5].lower()
 # specifies framework names
 frameworkName = ['PeLPA'] 
 
-# look into 'Main/OutputFile/BRNES.txt to fetch your desired file name' 
+# look into 'Main/OutputFile/PeLPA.txt to fetch your desired file name' 
 # place those file names sequentially (PeLPA) inside fName variable. 
 # here, '1729b'/a2075'/'dc756' are some example file names
 
